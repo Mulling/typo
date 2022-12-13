@@ -16,4 +16,10 @@ Then run it with:
 w4 run target/wasm32-unknown-unknown/release/cart.wasm
 ```
 
+or
+
+```shell
+w4 watch
+```
+
 For more info about setting up WASM-4, see the [quickstart guide](https://wasm4.org/docs/getting-started/setup?code-lang=rust#quickstart).
